@@ -1,5 +1,5 @@
 {
-  "name": "@thisshu/bad-words",
+  "name": "bad-words",
   "version": "3.0.14",
   "description": "A javascript filter for bad words",
   "main": "./lib/badwords",
